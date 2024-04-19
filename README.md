@@ -1,2 +1,2 @@
 # site-coloradoaviators
-Website for Colorado Aviators
+Website for [Colorado Aviators](https://coloradoaviators.net/)
