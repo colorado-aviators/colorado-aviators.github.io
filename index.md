@@ -8,4 +8,6 @@ layout: home
 <p align="center">
 <img src="/assets/30r.jpg" alt="30R">
 <a style="font-weight:regular;font-size: 30px" href="https://discord.gg/nazp8Dnrva">Join the conversation on Discord!</a>
+<br>
+<a style="font-weight:regular;font-size: 30px" href="https://coloradoaviators.net/AV-Scribe/">AV Scribe</a>
 </p>
