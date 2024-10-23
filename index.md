@@ -9,7 +9,7 @@ layout: home
 <img src="/assets/30r.jpg" alt="30R">
 </p>
 <p align="right" style="font-weight:regular;font-size:15px">
-photo: <a href="https://www.mattbeyer.com/">Matt Beyer</a>
+photo: by <a href="https://www.mattbeyer.com/">Matt Beyer</a>
 </p>
 <p align="center">
 <a style="font-weight:regular;font-size: 30px" href="https://discord.gg/nazp8Dnrva">Join the conversation on Discord!</a>
